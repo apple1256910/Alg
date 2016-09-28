@@ -1,0 +1,28 @@
+This is README file for Algorithm PA#2
+Author: <b03901155黃安>
+Date:2016.04.12
+=====
+SYNOPSIS:
+
+
+=====
+DIRECTORY:
+
+  bin/		executable binary
+  doc/		reports
+  inputs/	input files
+  outputs/	output files
+  lib/		library
+  src/ 		source C++ codes
+  
+======
+HOW TO CIMPILE:
+
+	cd PA2/
+	make
+
+======
+HOW TO RUN:
+
+======
+OTHER NOTICE:
